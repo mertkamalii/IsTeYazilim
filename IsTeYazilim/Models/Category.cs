@@ -7,6 +7,8 @@ namespace IsTeYazilim.Models
 {
     public class Category
     {
+        // Property Tanımlamaları
+
         public int CategoryID { get; set; }
 
         public int ProductID { get; set; }
