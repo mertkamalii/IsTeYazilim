@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 namespace IsTeYazilim.Controllers
 {
     public class ProductController : Controller
+        // Controller işlemleri tamamlandı.
     {
         private readonly IStringLocalizer<ProductController> _localizer;
 
