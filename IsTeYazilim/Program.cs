@@ -11,6 +11,7 @@ namespace IsTeYazilim
 {
     public class Program
     {
+        // program.cs
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
